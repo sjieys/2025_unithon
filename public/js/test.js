@@ -1,5 +1,5 @@
 const test_btn = document.getElementById("test-btn");
-let aa = 0;
+let a = 0;
 alert(`a: ${a}`);
 test_btn.addEventListener("click", (e) => {
     e.preventDefault();
