@@ -1,0 +1,66 @@
+{
+  "Q1": {
+    "question": "당신은 무인도 해변에 표류했습니다. 어떻게 하시겠습니까?",
+    "choices": [
+      {
+        "text": "해변에서 쉬며 체력을 회복한다.",
+        "resultId": "Q1_beach"
+      },
+      {
+        "text": "섬 내부를 조사해본다.",
+        "resultId": "Q1_inland"
+      }
+    ]
+  },
+  "Q2": {
+    "question": "밤이 되었습니다. 어떻게 하시겠습니까?",
+    "choices": [
+      {
+        "text": "불을 피운다.",
+        "resultId": "Q2_fire"
+      },
+      {
+        "text": "동굴에서 쉰다.",
+        "resultId": "Q2_cave"
+      },
+      {
+        "text": "어둠 속에서 쉰다.",
+        "resultId": "Q2_dark"
+      }
+    ]
+  },
+  "Q3": {
+    "question": "숲풀 사이에서 수상한 소리가 납니다. 어떻게 하시겠습니까?",
+    "choices": [
+      {
+        "text": "소리를 조사한다.",
+        "resultId": "Q3_check"
+      },
+      {
+        "text": "무시하고 피한다.",
+        "resultId": "Q3_avoid"
+      }
+    ]
+  },
+  "Q4": {
+    "question": "해가 저물고 있습니다. 다음 행동은?",
+    "choices": [
+      {
+        "text": "탈출을 시도한다.",
+        "resultId": "Q4_escape"
+      },
+      {
+        "text": "불을 피워 구조를 요청한다.",
+        "resultId": "Q4_signal"
+      },
+      {
+        "text": "식량을 확보하러 간다.",
+        "resultId": "Q4_food"
+      },
+      {
+        "text": "휴식을 취한다.",
+        "resultId": "Q4_rest"
+      }
+    ]
+  }
+}
